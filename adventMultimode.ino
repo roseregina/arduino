@@ -1,6 +1,6 @@
 #include <Adafruit_NeoPixel.h>
 
-#define BUTTON_PIN   2
+#define BUTTON_PIN   3 
 #define PIXEL_PIN    7
 
 #define PIXEL_COUNT 25  // 24 days of advent, plus one more
