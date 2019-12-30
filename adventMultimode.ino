@@ -185,6 +185,10 @@ void flickerLight(uint32_t color, int wait) {
 
 /*
 Project info: 
+
+Full project write up, published 31 December, 2019: 
+https://roseregina.com/2019/12/31/knit-fairy-lights-with-leds-for-advent/
+
 This project was inspired by Helen Ward's Knitted Fairy Lights Advent Calendar
 https://birdface.net/2012/11/06/knitted-fairy-lights-advent-calendar-pattern-and-tutorial/
 and Bob Clagett's Advent Calendar Christmas Tree project
